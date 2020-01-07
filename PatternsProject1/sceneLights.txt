@@ -1,0 +1,2 @@
+LightObj 0 Position 80 820 12 LinearAtten 0.000000000190631f QuadAtten 0.00000183209f ConstAtten 0.0000001f InnerSpot 0 OuterSpot 0 ONOFF 0
+end

@@ -1,0 +1,48 @@
+﻿  cGameObject.cpp
+  cLeaderPirate.cpp
+  cLight.cpp
+  cLightHelper.cpp
+  cLightImp.cpp
+  cLightManager.cpp
+  cMediator.cpp
+  cMeleePirate.cpp
+  cMeshObject.cpp
+  cModelLoader.cpp
+  cObjectFactory.cpp
+  cPirate.cpp
+  cRangedPirate.cpp
+  cShader.cpp
+  cShaderManager.cpp
+  cSphereObject.cpp
+  cTestObject.cpp
+  gameObjectLoader.cpp
+  main.cpp
+  openGLStuff.cpp
+  Generating Code...
+  Compiling...
+  Physics.cpp
+  PhysicsClosestTriangle.cpp
+  ProjectControlsAndCallback.cpp
+D:\GDP\projects\patternsAndFramework\patternsFrameworkProject1\PatternsProject1\main.cpp(204,29): warning C4101: 'closestTriangle': unreferenced local variable
+D:\GDP\projects\patternsAndFramework\patternsFrameworkProject1\PatternsProject1\ProjectControlsAndCallback.cpp(182,115): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  sNVPair.cpp
+  VAOManager.cpp
+  Generating Code...
+D:\GDP\projects\patternsAndFramework\patternsFrameworkProject1\PatternsProject1\ProjectControlsAndCallback.cpp(321,51): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  glad.c
+glfw3.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(context.obj)' or at 'D:\GDP\projects\patternsAndFramework\patternsFrameworkProject1\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(init.obj)' or at 'D:\GDP\projects\patternsAndFramework\patternsFrameworkProject1\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(input.obj)' or at 'D:\GDP\projects\patternsAndFramework\patternsFrameworkProject1\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(monitor.obj)' or at 'D:\GDP\projects\patternsAndFramework\patternsFrameworkProject1\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(vulkan.obj)' or at 'D:\GDP\projects\patternsAndFramework\patternsFrameworkProject1\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(window.obj)' or at 'D:\GDP\projects\patternsAndFramework\patternsFrameworkProject1\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_init.obj)' or at 'D:\GDP\projects\patternsAndFramework\patternsFrameworkProject1\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_joystick.obj)' or at 'D:\GDP\projects\patternsAndFramework\patternsFrameworkProject1\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_monitor.obj)' or at 'D:\GDP\projects\patternsAndFramework\patternsFrameworkProject1\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_time.obj)' or at 'D:\GDP\projects\patternsAndFramework\patternsFrameworkProject1\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_thread.obj)' or at 'D:\GDP\projects\patternsAndFramework\patternsFrameworkProject1\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_window.obj)' or at 'D:\GDP\projects\patternsAndFramework\patternsFrameworkProject1\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(wgl_context.obj)' or at 'D:\GDP\projects\patternsAndFramework\patternsFrameworkProject1\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(egl_context.obj)' or at 'D:\GDP\projects\patternsAndFramework\patternsFrameworkProject1\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(osmesa_context.obj)' or at 'D:\GDP\projects\patternsAndFramework\patternsFrameworkProject1\x64\Debug\glfw.pdb'; linking object as if no debug info
+  PatternsProject1.vcxproj -> D:\GDP\projects\patternsAndFramework\patternsFrameworkProject1\x64\Debug\PatternsProject1.exe

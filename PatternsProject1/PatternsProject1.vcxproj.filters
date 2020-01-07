@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="shaders">
+      <UniqueIdentifier>{b4aa15a0-4c83-4cdf-b89b-b3f9ade5d1e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Physics">
+      <UniqueIdentifier>{9f69a76b-0d05-4c9d-b584-ddee8244bca3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LetThereBeLight">
+      <UniqueIdentifier>{b7856dd5-e198-496e-9305-f7e487f3dcdc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sNameValuePair">
+      <UniqueIdentifier>{f81e76a6-8a40-4495-bbfb-e9239fe0253c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AbstractFactory">
+      <UniqueIdentifier>{e04809c1-b531-4796-a6b4-e604ba5299ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObjects">
+      <UniqueIdentifier>{2ff24868-d588-4a28-a355-e60b3651e28e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="pirate">
+      <UniqueIdentifier>{3673a76f-2c89-41fa-8cff-8959420f735e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cModelLoader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cShaderManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cShader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VAOManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProjectControlsAndCallback.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Physics.cpp">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysicsClosestTriangle.cpp">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="cLightManager.cpp">
+      <Filter>LetThereBeLight</Filter>
+    </ClCompile>
+    <ClCompile Include="gameObjectLoader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="openGLStuff.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sNVPair.cpp">
+      <Filter>sNameValuePair</Filter>
+    </ClCompile>
+    <ClCompile Include="cObjectFactory.cpp">
+      <Filter>AbstractFactory</Filter>
+    </ClCompile>
+    <ClCompile Include="cMeshObject.cpp">
+      <Filter>GameObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="cSphereObject.cpp">
+      <Filter>GameObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="cTestObject.cpp">
+      <Filter>GameObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="cMediator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cGameObject.cpp">
+      <Filter>GameObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="cLeaderPirate.cpp">
+      <Filter>pirate</Filter>
+    </ClCompile>
+    <ClCompile Include="cMeleePirate.cpp">
+      <Filter>pirate</Filter>
+    </ClCompile>
+    <ClCompile Include="cPirate.cpp">
+      <Filter>pirate</Filter>
+    </ClCompile>
+    <ClCompile Include="cRangedPirate.cpp">
+      <Filter>pirate</Filter>
+    </ClCompile>
+    <ClCompile Include="cLight.cpp">
+      <Filter>LetThereBeLight</Filter>
+    </ClCompile>
+    <ClCompile Include="cLightHelper.cpp">
+      <Filter>LetThereBeLight</Filter>
+    </ClCompile>
+    <ClCompile Include="cLightImp.cpp">
+      <Filter>LetThereBeLight</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cModelLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cShaderManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VAOManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ProjectControlsAndCallback.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Physics.h">
+      <Filter>Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="cLightManager.h">
+      <Filter>LetThereBeLight</Filter>
+    </ClInclude>
+    <ClInclude Include="gameObjectLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="globals.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="openGLStuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="commonHeaders.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sNVPair.h">
+      <Filter>sNameValuePair</Filter>
+    </ClInclude>
+    <ClInclude Include="cObjectFactory.h">
+      <Filter>AbstractFactory</Filter>
+    </ClInclude>
+    <ClInclude Include="iObjectBuilder.h">
+      <Filter>AbstractFactory</Filter>
+    </ClInclude>
+    <ClInclude Include="cMeshObject.h">
+      <Filter>GameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="cSphereObject.h">
+      <Filter>GameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="cTestObject.h">
+      <Filter>GameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="cMediator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cGameObject.h">
+      <Filter>GameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="cLeaderPirate.h">
+      <Filter>pirate</Filter>
+    </ClInclude>
+    <ClInclude Include="cMeleePirate.h">
+      <Filter>pirate</Filter>
+    </ClInclude>
+    <ClInclude Include="cPirate.h">
+      <Filter>pirate</Filter>
+    </ClInclude>
+    <ClInclude Include="cRangedPirate.h">
+      <Filter>pirate</Filter>
+    </ClInclude>
+    <ClInclude Include="iMessageInterface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cLight.h">
+      <Filter>LetThereBeLight</Filter>
+    </ClInclude>
+    <ClInclude Include="cLightHelper.h">
+      <Filter>LetThereBeLight</Filter>
+    </ClInclude>
+    <ClInclude Include="cLightImp.h">
+      <Filter>LetThereBeLight</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\shaders\fragmentShader01.glsl">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="assets\shaders\vertexShader01.glsl">
+      <Filter>shaders</Filter>
+    </None>
+  </ItemGroup>
+</Project>
